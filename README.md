@@ -22,6 +22,8 @@ You can download the image with the following command:
 docker pull fauria/vsftpd
 ```
 
+INSTRUCTION WILL BE FIXED SOON 
+
 Environment variables
 ----
 
