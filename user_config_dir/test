@@ -1,3 +1,3 @@
-# Отдельный конфиг для пользователя nota
+# Отдельный конфиг для пользователя test_ftp
 local_root=/var/www/test_ftp.ru
 write_enable=YES
